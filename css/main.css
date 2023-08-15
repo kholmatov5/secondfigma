@@ -1,0 +1,41 @@
+head {
+    font-size: 15px;
+}
+
+.nav-katalog {
+    font-size: 0.8rem;
+    background-color: #F5F5F5;
+    padding: 5px 10%;
+    box-sizing: border-box;
+}
+
+header {
+    background-image: url("../images/Mask Group (2).png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 411px;
+    background-color:#3CD3AD;
+    padding-top: 35px;
+}
+.container-header{
+    background-color:rgba(255, 255, 255, 0.5);
+    border-radius: 20px;
+}
+.img-line{
+    position: absolute;
+    bottom: -50px;
+    right: -50px;
+}
+.img_shina{
+    position: relative;
+    top: -40px;
+}
+.line_2{
+    position: absolute;
+    top: -40px;
+    left: -40px;
+}
+.header-card{
+    position: relative;
+    top: -130px;
+}
